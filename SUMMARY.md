@@ -8,6 +8,7 @@
 
 * [Skeexs Invoices](resources/skeexs-invoices/README.md)
   * [Installation](resources/skeexs-invoices/installation.md)
+  * [Lua Types](resources/skeexs-invoices/lua-types.md)
   * [Exports](resources/skeexs-invoices/exports/README.md)
     * [Client Exports](resources/skeexs-invoices/exports/client-exports.md)
     * [Server Exports](resources/skeexs-invoices/exports/server-exports.md)
