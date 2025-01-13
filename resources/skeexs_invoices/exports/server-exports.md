@@ -1,9 +1,9 @@
 ---
+icon: memo
 description: >-
   This is where you'll find all the Server Exports, these will only be available
   on the server and can not be called on the client. For security purposes,
   never trust the client as they say ;)
-icon: memo
 ---
 
 # Server Exports
@@ -21,7 +21,7 @@ local fetched, invoices = exports["skeexs_invoices"]:GetReceivedInvoices(charact
 --- This will return true if the player has any invoices to fetch.
 if fetched then
     --- this will only print if "fetched"-variable is true, and it has fetched.
-    print("Found invoices", invoices")
+    print("Found invoices", invoices)
     
     --// add your code here //
 else
@@ -39,7 +39,7 @@ local fetched, invoices = exports["skeexs_invoices"]:GetReceivedInvoices(charact
 --- This will return true if the player has any invoices to fetch.
 if fetched then
     --- this will only print if "fetched"-variable is true, and it has fetched.
-    print("Found invoices", invoices")
+    print("Found invoices", invoices)
     
     --// add your code here //
 else
@@ -59,7 +59,7 @@ local fetched, invoices = exports["skeexs_invoices"]:GetSentInvoices(characterId
 --- This will return true if the player has any invoices to fetch.
 if fetched then
     --- this will only print if "fetched"-variable is true, and it has fetched.
-    print("Found invoices", invoices")
+    print("Found invoices", invoices)
     
     --// add your code here //
 else
@@ -76,7 +76,7 @@ local fetched, invoices = exports["skeexs_invoices"]:GetSentInvoices(characterId
 --- This will return true if the player has any invoices to fetch.
 if fetched then
     --- this will only print if "fetched"-variable is true, and it has fetched.
-    print("Found invoices", invoices")
+    print("Found invoices", invoices)
     
     --// add your code here //
 else
@@ -149,7 +149,7 @@ if found then
     print("I found a valid invoice, i want to remove it")
     
     local invoiceId = id --- here you could use invoice.id also to further validate youre using a valid invoice id
-    local hasRemoved, message = exports["skeexs_invoices"]:DeleteInvoices(id | invoice.id) 
+    local hasRemoved, message = exports["skeexs_invoices"]:DeleteInvoices(invoiceId) 
 
     --- this will print how it went with removing the invoice
     print(message)
