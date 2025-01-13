@@ -2,6 +2,7 @@
 description: >-
   I suppose you've come here after buying the script. That is, thank you for
   that.
+icon: folder
 ---
 
 # Skeexs Invoices
