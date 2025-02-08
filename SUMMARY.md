@@ -17,3 +17,5 @@
     * [Server Events](resources/invoices/events/server-events.md)
 * [Stores](resources/stores/README.md)
   * [Setup](resources/stores/installation.md)
+  * [Supported frameworks](resources/stores/supported-frameworks.md)
+  * [Supported Inventories](resources/stores/supported-inventories.md)
