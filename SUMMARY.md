@@ -16,6 +16,7 @@
     * [Client Events](resources/invoices/events/client-events.md)
     * [Server Events](resources/invoices/events/server-events.md)
 * [Stores](resources/stores/README.md)
-  * [Setup](resources/stores/installation.md)
+  * [Setup](resources/stores/installation/README.md)
+    * [Preset Categories](resources/stores/installation/preset-categories.md)
   * [Supported frameworks](resources/stores/supported-frameworks.md)
   * [Supported Inventories](resources/stores/supported-inventories.md)
