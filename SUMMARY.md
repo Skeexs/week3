@@ -18,5 +18,6 @@
 * [Stores](resources/stores/README.md)
   * [Setup](resources/stores/installation/README.md)
     * [Preset Categories](resources/stores/installation/preset-categories.md)
+    * [Creating Themes](resources/stores/installation/creating-themes.md)
   * [Supported frameworks](resources/stores/supported-frameworks.md)
   * [Supported Inventories](resources/stores/supported-inventories.md)
