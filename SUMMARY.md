@@ -6,12 +6,14 @@
 
 ## Resources
 
-* [skeexs\_invoices](resources/skeexs_invoices/README.md)
-  * [Installation](resources/skeexs_invoices/installation.md)
-  * [Lua Types](resources/skeexs_invoices/lua-types.md)
-  * [Exports](resources/skeexs_invoices/exports/README.md)
-    * [Client Exports](resources/skeexs_invoices/exports/client-exports.md)
-    * [Server Exports](resources/skeexs_invoices/exports/server-exports.md)
-  * [Events](resources/skeexs_invoices/events/README.md)
-    * [Client Events](resources/skeexs_invoices/events/client-events.md)
-    * [Server Events](resources/skeexs_invoices/events/server-events.md)
+* [Invoices](resources/invoices/README.md)
+  * [Installation](resources/invoices/installation.md)
+  * [Lua Types](resources/invoices/lua-types.md)
+  * [Exports](resources/invoices/exports/README.md)
+    * [Client Exports](resources/invoices/exports/client-exports.md)
+    * [Server Exports](resources/invoices/exports/server-exports.md)
+  * [Events](resources/invoices/events/README.md)
+    * [Client Events](resources/invoices/events/client-events.md)
+    * [Server Events](resources/invoices/events/server-events.md)
+* [Stores](resources/stores/README.md)
+  * [Setup](resources/stores/installation.md)
